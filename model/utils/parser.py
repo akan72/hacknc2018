@@ -27,6 +27,7 @@ def parseLyrics(song_list):
 
         for word in words_to_remove:
             word_list.remove(word)
+            
         word_set = set(word_list)
         song_lyrics_sets.append(word_set)
     
