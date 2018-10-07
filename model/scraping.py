@@ -13,7 +13,6 @@ api = genius.Genius('Wjaaj3obfMqU5E2v7aIdSS-PyH7CcGCK_-i_tDf6qDxNqGRzc4u5maoWcpi
 
 # In[39]:
 
-
 def parseLyrics(song_list): 
     song_lyrics_sets = []
     
